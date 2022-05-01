@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Full Stack Developer
 - 👀 I’m interested in computer science and Physics and space sciences
 - 🌱 I’m currently learning computer science and programming 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on in publishing computer science and helping others
 - 📫 How to reach me hamsamans376@gmail.com
 
 <!---
