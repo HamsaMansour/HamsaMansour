@@ -15,11 +15,12 @@
 
 ### Contact me:
 
-<h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hamsa-mansour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamsa-mansour/" height="30" width="40" /></a>
+<a href="https://twitter.com/hamsamansour11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamsamansour11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamsa mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamsa mansour" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15024575/hamsa-mansourhttps://stackoverflow.com/users/15024575/hamsa-mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15024575/hamsa-mansourhttps://stackoverflow.com/users/15024575/hamsa-mansour" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/maram.medhat.543/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/maram.medhat.543/" height="30" width="40" /></a>
+<a href="https://fb.com/hamsa mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamsa mansour" height="30" width="40" /></a>
 <a href="https://instagram.com/hamsa-mansour67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamsa-mansour67" height="30" width="40" /></a>
 <a href="https://www.behance.net/hamsa mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamsa mansour" height="30" width="40" /></a>
 </p>
@@ -32,8 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamsamansour&show_icons=true&locale=en" alt="hamsamansour" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamsamansour&" alt="hamsamansour" /></p>
-
- 
- 
-
- 
