@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Full Stack Developer
-- 👀 I’m interested in computer science and Physics and space sciences
-- 🌱 I’m currently learning computer science and programming 
-- 💞️ I’m looking to collaborate on in publishing computer science and helping others
-- 📫 How to reach me hamsamans376@gmail.com
-
-<!---
-HamsaMansour/HamsaMansour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Hi I'm Hamsa From Egypt I do Full Stack Developer and Design and Development.I really enjoy learning languages and frame works like React and Angular Js , as well as work in WordPress.
+ also enjoy wireframing, UI, Ux, and design in general.  
+  module.exports = {
+  plugins: [require("daisyui")],
+};
