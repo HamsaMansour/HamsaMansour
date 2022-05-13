@@ -1,15 +1,5 @@
  Hi I'm Hamsa From Egypt I do Full Stack Developer and Design and Development.I really enjoy learning languages and frame works like React and Angular Js , as well as work in WordPress.
  also enjoy wireframing, UI, Ux, and design in general.  
-   
-    
-
- .
-
-I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
-
-I love programming and I love Swift.
-
-### Talking about Personal Stuffs:
   
 ### Languages and Tools:
 
@@ -29,8 +19,6 @@ I love programming and I love Swift.
 - Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
 - Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
 
-### My GitHub Stats
+ 
 
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
-
-⭐️ From [L1cardo](https://github.com/L1cardo)
+ 
