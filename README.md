@@ -2,7 +2,7 @@
  also enjoy wireframing, UI, Ux, and design in general.  
  [![Header](https://github.com/HamsaMansour/HamsaMansour/blob/main/Hi%20I'm%20Hamsa%20From%20Egypt%20I%20do%20Full%20Stack%20Developer%20and%20Design%20and%20Development.png)
  
-[![Header](https://github.com/HamsaMansour/HamsaMansour/blob/main/1.png)
+
  
 ### Languages and Tools:
 
