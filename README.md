@@ -18,7 +18,7 @@
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hamsamansour11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamsamansour11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamsa mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamsa mansour" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamsa-mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamsa mansour" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hamsa-mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hamsa-mansour" height="30" width="40" /></a>
 <a href="https://fb.com/Hamsa Mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maram.medhat.543/" height="30" width="40" /></a>
 <a href="https://instagram.com/hamsa-mansour67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamsa-mansour67" height="30" width="40" /></a>
