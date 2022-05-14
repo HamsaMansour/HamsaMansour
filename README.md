@@ -1,4 +1,4 @@
- Hi I'm Hamsa From Egypt I do Full Stack Developer and Design and Development.I really enjoy learning languages and frame works like React and Angular Js , as well as work in WordPress.
+ Hi I'm Hamsa From Egypt I WORK Full Stack Developer and Design and Development.I really enjoy learning languages and frame works like React and Angular Js , as well as work in WordPress.
  also enjoy wireframing, UI, Ux, and design in general.  
  [![Header](https://github.com/HamsaMansour/HamsaMansour/blob/main/Hi%20I'm%20Hamsa%20From%20Egypt%20I%20do%20Full%20Stack%20Developer%20and%20Design%20and%20Development.png)
  
